@@ -6,7 +6,7 @@ let dados = [
         tags : "Sci-fi, FPS, singleplayer, Gordon Freeman, Xen, Black Mesa, HEV suit, gravity gun, rocket launcher, pulse rifle, combine, resistance, headcrab, antlion, Half-Life 2, Episode One, Episode Two, VR, Black Mesa (mod)"
     } ,
     {
-        titulo : "Left 4 Dead - Data de Lançamento(2008)",
+        titulo : "Left 4 Dead - Data de Lançamento (2008)",
         description : "Left 4 Dead é um jogo super divertido e emocionante onde você e seus amigos precisam trabalhar juntos para sobreviver a um apocalipse zumbi! Imagine um mundo onde a maioria das pessoas se transformou em zumbis e vocês são alguns dos poucos humanos ainda vivos.",
         site : "https://www.l4d.com/blog/",
         tags : "Co-op, zumbis, survival horror, FPS, Valve, infected, survivor, specials, campaign, shotguns, rifles, melee weapons, special items, The Parish, No Mercy, Swamp Fever, Dark Carnival, Dead Center, Blood Harvest, versus, survival, scavenger, realism, mutations, Smoker, Hunter, Boomer, Charger, Spitter, Jockey, Tank, Witch"
