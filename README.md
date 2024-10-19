@@ -4,7 +4,7 @@ Este projeto é um catálogo de jogos que permite ao usuário pesquisar jogos po
 
 Tecnologias utilizadas:
 
-    `HTML, CSS, JavaScript`
+    HTML, CSS, JavaScript
 
 Como usar:
 
